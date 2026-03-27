@@ -1,4 +1,4 @@
-# Todos Explorer - (I did this by AI)
+# Todos Explorer - (I did this README.md file using with AI)
 
 A Flutter application that loads todos from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/todos/), displays them in a card-based layout, and supports filtering, sorting, searching, and paginated loading.
 
