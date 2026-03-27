@@ -1,4 +1,4 @@
-# Todos Explorer - (I did this README.md file using with AI)
+# Todos Explorer
 
 A Flutter application that loads todos from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/todos/), displays them in a card-based layout, and supports filtering, sorting, searching, and paginated loading.
 
@@ -251,3 +251,5 @@ Failures are returned as `Left<Failure>` via `dartz`'s `Either` type, keeping er
 ## Fonts
 
 The app uses the **Poppins** font family, bundled in the `fonts/` directory.
+
+#### - I did this README.md file using with AI
