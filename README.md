@@ -251,5 +251,3 @@ Failures are returned as `Left<Failure>` via `dartz`'s `Either` type, keeping er
 ## Fonts
 
 The app uses the **Poppins** font family, bundled in the `fonts/` directory.
-
-#### - I did this README.md file using with AI
